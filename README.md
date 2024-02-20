@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm MURALA DONI SRAVANTH GOWD</h1>
+<h3 align="center">A passionate full stack python developer from India</h3>
+
 - 👋 Hi, I’m @DONISRAVANTH
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
